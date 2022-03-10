@@ -3,5 +3,4 @@ git clone "https://github.com/imochoa/navi-cheats" "$(navi info cheats-path)/imo
 
 
 # If you want to use SSH run:
-git remote set-url --add origin  git@github.com:imochoa/navi-cheats.git
-
+ git remote add origin git@github.com:imochoa/navi-cheats.git
